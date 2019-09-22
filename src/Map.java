@@ -23,6 +23,7 @@ public class Map {
         if(     this.box.x == this.storagePoint.x &&
                 this.box.y == this.storagePoint.y){
             System.out.println("YOU WON!!!");
+            System.exit(0);
         }
     }
 
