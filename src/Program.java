@@ -80,7 +80,7 @@ public class Program {
             targets[0] = new Target(1,2);
             targets[1] = new Target(2,2);
             targets[2] = new Target(3,2);
-            System.out.println("Hint: " + targets[i].get_x() + " " + targets[i].get_y());
+//            System.out.println("Hint: " + targets[i].get_x() + " " + targets[i].get_y());
         }
 
     }
